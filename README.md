@@ -15,7 +15,7 @@ It demonstrates **exploratory data analysis (EDA), feature engineering, and visu
 
 ## Dataset
 
-- Source: Titanic dataset (public dataset / Kaggle)
+- Source: [Titanic dataset (public dataset / Kaggle)](https://www.kaggle.com/datasets/yasserh/titanic-dataset)
 - Contains passenger details: Age, Sex, Class, SibSp, Parch, Fare, Port, etc.
 
 ---
